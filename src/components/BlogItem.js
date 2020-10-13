@@ -5,7 +5,7 @@ class BlogItem extends Component {
 		return (
 		    <div className="bg-faded p-4 my-4">
 			    <div className="card card-inverse">
-			        <img className="card-img img-fluid w-100" src="./../public.img/slide-1.jpg" alt="slide-1" />
+			        <img className="card-img img-fluid w-100" src="./img/slide-1.jpg" alt="slide-1" />
 			        <div className="card-img-overlay bg-overlay">
 			            <h2 className="card-title text-shadow text-white text-uppercase mb-2 text-xs">XỐT GIA VỊ HOÀN CHỈNH BARONA SƯỜN XÀO CHUA NGỌT</h2>
 			            <h5 className="text-shadow text-white">March 1, 2017</h5>
